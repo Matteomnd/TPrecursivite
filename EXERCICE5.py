@@ -6,3 +6,4 @@ def product(a,b):
 
 
 print(product(0,2))
+print(product(5,2))
